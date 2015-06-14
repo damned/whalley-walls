@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "lowfi-card-ids": [
+      "-601243",
+      -116120,
+      -334436
+    ]
+  },
+  "cards": {
+    "999": {
+      "id": 999,
+      "left": 498.79998779296875,
+      "top": 143.59996032714844,
+      "colour": "rgb(220, 230, 230)",
+      "last_modification_status": ""
+    },
+    "-601243": {
+      "id": "-601243",
+      "left": 749.6001205444336,
+      "top": 302.7999725341797,
+      "colour": "rgb(220, 230, 230)",
+      "text": "here is a new card"
+    },
+    "-116120": {
+      "id": -116120,
+      "left": 193.60000610351562,
+      "top": 377.1999969482422,
+      "colour": "rgb(220, 230, 230)",
+      "text": "separate physical from logical"
+    },
+    "-334436": {
+      "id": -334436,
+      "left": 445.59999084472656,
+      "top": 371.6000213623047,
+      "colour": "rgb(220, 230, 230)",
+      "text": "focus on physical and re-use: otherwise getting all framework"
+    }
+  }
+}
