@@ -87,22 +87,50 @@
       "-550239",
       "-940059",
       "-572428",
-      -772346,
-      -420519,
-      -860787,
-      -977892,
-      -158691,
-      -940039,
-      -150155
+      "-772346",
+      "-420519",
+      "-860787",
+      "-977892",
+      "-158691",
+      "-940039",
+      "-150155"
     ]
   },
   "cards": {
-    "999": {
-      "id": 999,
-      "left": 1307,
-      "top": 164,
+    "2366": {
+      "id": "2366",
+      "left": 701,
+      "top": 507,
       "colour": "rgb(220, 230, 230)",
-      "last_modification_status": ""
+      "last_modification_status": "Dev"
+    },
+    "2525": {
+      "id": "2525",
+      "left": 712,
+      "top": 663,
+      "colour": "rgb(220, 230, 230)",
+      "last_modification_status": "Dev"
+    },
+    "2529": {
+      "id": "2529",
+      "left": 710,
+      "top": 585,
+      "colour": "rgb(220, 230, 230)",
+      "last_modification_status": "Dev"
+    },
+    "2539": {
+      "id": "2539",
+      "left": 704,
+      "top": 328,
+      "colour": "rgb(220, 230, 230)",
+      "last_modification_status": "A & D"
+    },
+    "2588": {
+      "id": "2588",
+      "left": 350,
+      "top": 150,
+      "colour": "rgb(220, 230, 230)",
+      "last_modification_status": "A & D"
     },
     "-834463": {
       "id": "-834463",
@@ -707,49 +735,49 @@
       "text": "initial physical wall syncs from current"
     },
     "-772346": {
-      "id": -772346,
+      "id": "-772346",
       "left": 506,
       "top": 503,
       "colour": "rgb(255,255,102)",
       "text": "WAIT FOR PHYS WALL"
     },
     "-420519": {
-      "id": -420519,
+      "id": "-420519",
       "left": 553,
       "top": 362,
       "colour": "rgb(220, 230, 230)",
       "text": "svg.js physical wall"
     },
     "-860787": {
-      "id": -860787,
+      "id": "-860787",
       "left": 919,
       "top": 438,
       "colour": "rgb(220, 230, 230)",
       "text": "components diagram"
     },
     "-977892": {
-      "id": -977892,
+      "id": "-977892",
       "left": 405,
       "top": 196,
       "colour": "rgb(220, 230, 230)",
       "text": "easy to sketch diagram"
     },
     "-158691": {
-      "id": -158691,
+      "id": "-158691",
       "left": 409,
       "top": 121,
       "colour": "rgb(220, 230, 230)",
       "text": "sliders/vis for card values"
     },
     "-940039": {
-      "id": -940039,
+      "id": "-940039",
       "left": 394,
       "top": 447,
       "colour": "rgb(220, 230, 230)",
       "text": "simple yet grokkable (e.g. priority, topic) - how?"
     },
     "-150155": {
-      "id": -150155,
+      "id": "-150155",
       "left": 394,
       "top": 493,
       "colour": "rgb(220, 230, 230)",

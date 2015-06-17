@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "lowfi-card-ids": []
+  },
+  "cards": {
+    "2366": {
+      "id": "2366",
+      "left": 150,
+      "top": 150,
+      "colour": "rgb(220, 230, 230)",
+      "last_modification_status": "Dev"
+    },
+    "2525": {
+      "id": "2525",
+      "left": 331,
+      "top": 86,
+      "colour": "rgb(220, 230, 230)",
+      "last_modification_status": "Dev"
+    },
+    "2529": {
+      "id": "2529",
+      "left": 356,
+      "top": 268,
+      "colour": "rgb(220, 230, 230)",
+      "last_modification_status": "Dev"
+    },
+    "2539": {
+      "id": "2539",
+      "left": 167,
+      "top": 266,
+      "colour": "rgb(220, 230, 230)",
+      "last_modification_status": "A & D"
+    },
+    "2588": {
+      "id": "2588",
+      "left": 526,
+      "top": 77,
+      "colour": "rgb(220, 230, 230)",
+      "last_modification_status": "A & D"
+    }
+  }
+}

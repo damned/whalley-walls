@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "lowfi-card-ids": [
+      -788990
+    ]
+  },
+  "cards": {
+    "-788990": {
+      "id": -788990,
+      "left": 20,
+      "top": 150,
+      "colour": "rgb(220, 230, 230)",
+      "text": "sync reload on add"
+    }
+  }
+}
