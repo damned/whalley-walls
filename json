@@ -93,45 +93,13 @@
       "-977892",
       "-158691",
       "-940039",
-      "-150155"
+      "-150155",
+      -281029,
+      -309195,
+      -603891
     ]
   },
   "cards": {
-    "2366": {
-      "id": "2366",
-      "left": 701,
-      "top": 507,
-      "colour": "rgb(220, 230, 230)",
-      "last_modification_status": "Dev"
-    },
-    "2525": {
-      "id": "2525",
-      "left": 712,
-      "top": 663,
-      "colour": "rgb(220, 230, 230)",
-      "last_modification_status": "Dev"
-    },
-    "2529": {
-      "id": "2529",
-      "left": 710,
-      "top": 585,
-      "colour": "rgb(220, 230, 230)",
-      "last_modification_status": "Dev"
-    },
-    "2539": {
-      "id": "2539",
-      "left": 704,
-      "top": 328,
-      "colour": "rgb(220, 230, 230)",
-      "last_modification_status": "A & D"
-    },
-    "2588": {
-      "id": "2588",
-      "left": 350,
-      "top": 150,
-      "colour": "rgb(220, 230, 230)",
-      "last_modification_status": "A & D"
-    },
     "-834463": {
       "id": "-834463",
       "left": 1262.2038944872634,
@@ -155,8 +123,8 @@
     },
     "-577574": {
       "id": "-577574",
-      "left": 291.2151054511228,
-      "top": 250.67924899719355,
+      "left": 270.2151054511228,
+      "top": 274.67924899719355,
       "colour": "rgb(220, 230, 230)",
       "text": "leave bluetack\n"
     },
@@ -407,8 +375,8 @@
     },
     "-620544": {
       "id": "-620544",
-      "left": 207,
-      "top": 324,
+      "left": 411,
+      "top": 211,
       "colour": "white",
       "text": "set area for new cards"
     },
@@ -463,8 +431,8 @@
     },
     "-284808": {
       "id": "-284808",
-      "left": 126,
-      "top": 52,
+      "left": 135,
+      "top": 58,
       "colour": "teal",
       "text": "cards as buttons"
     },
@@ -694,15 +662,15 @@
     },
     "-720982": {
       "id": "-720982",
-      "left": 512,
-      "top": 257,
+      "left": 539,
+      "top": 243,
       "colour": "rgb(220, 230, 230)",
       "text": "physical split"
     },
     "-185968": {
       "id": "-185968",
-      "left": 664,
-      "top": 127,
+      "left": 931,
+      "top": 490,
       "colour": "rgb(220, 230, 230)",
       "text": "syncer split"
     },
@@ -715,8 +683,8 @@
     },
     "-550239": {
       "id": "-550239",
-      "left": 383,
-      "top": 403,
+      "left": 355,
+      "top": 358,
       "colour": "rgb(220, 230, 230)",
       "text": "walls: list"
     },
@@ -729,8 +697,8 @@
     },
     "-572428": {
       "id": "-572428",
-      "left": 569,
-      "top": 211,
+      "left": 589,
+      "top": 203,
       "colour": "rgb(220, 230, 230)",
       "text": "initial physical wall syncs from current"
     },
@@ -757,15 +725,15 @@
     },
     "-977892": {
       "id": "-977892",
-      "left": 405,
-      "top": 196,
+      "left": 538,
+      "top": 403,
       "colour": "rgb(220, 230, 230)",
       "text": "easy to sketch diagram"
     },
     "-158691": {
       "id": "-158691",
-      "left": 409,
-      "top": 121,
+      "left": 373,
+      "top": 114,
       "colour": "rgb(220, 230, 230)",
       "text": "sliders/vis for card values"
     },
@@ -782,6 +750,27 @@
       "top": 493,
       "colour": "rgb(220, 230, 230)",
       "text": "how?"
+    },
+    "-281029": {
+      "id": -281029,
+      "left": 38,
+      "top": 250,
+      "colour": "rgb(220, 230, 230)",
+      "text": "a new card"
+    },
+    "-309195": {
+      "id": -309195,
+      "left": 170,
+      "top": 141,
+      "colour": "rgb(220, 230, 230)",
+      "text": "even newer card"
+    },
+    "-603891": {
+      "id": -603891,
+      "left": 674,
+      "top": 121,
+      "colour": "rgb(220, 230, 230)",
+      "text": "move mingle merge to server"
     }
   }
 }
