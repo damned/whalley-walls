@@ -1,0 +1,61 @@
+{
+  "structure_version": "0.2",
+  "cards": [
+    {
+      "x": 375,
+      "y": 230,
+      "width": 50,
+      "height": 60,
+      "type": "text",
+      "colour": "lightgray",
+      "id": "1473183247328",
+      "color": "white",
+      "text": "new"
+    },
+    {
+      "x": 352,
+      "y": 288,
+      "width": 50,
+      "height": 60,
+      "type": "text",
+      "colour": "lightgray",
+      "id": "1472722094316",
+      "color": "white",
+      "text": "exists for dragging"
+    },
+    {
+      "x": 280,
+      "y": 230,
+      "width": 100,
+      "height": 60,
+      "type": "text",
+      "colour": "lightgray",
+      "id": "1473183248237",
+      "color": "white",
+      "text": "added card"
+    },
+    {
+      "x": 280,
+      "y": 230,
+      "width": 100,
+      "height": 60,
+      "type": "text",
+      "colour": "lightgray",
+      "id": "1473183249081",
+      "color": "white",
+      "text": "for editing"
+    },
+    {
+      "x": 375,
+      "y": 230,
+      "width": 50,
+      "height": 60,
+      "type": "text",
+      "colour": "lightgray",
+      "id": "1473183248819",
+      "color": "white",
+      "text": "edited"
+    }
+  ],
+  "wall": {}
+}

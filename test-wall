@@ -1,0 +1,17 @@
+{
+  "structure_version": "0.2",
+  "cards": [
+    {
+      "x": 270,
+      "y": 304,
+      "width": 100,
+      "height": 60,
+      "type": "text",
+      "colour": "lightgray",
+      "id": "1472718004695",
+      "color": "white",
+      "text": "existing to drag"
+    }
+  ],
+  "wall": {}
+}
